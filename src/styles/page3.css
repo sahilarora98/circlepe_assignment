@@ -1,0 +1,38 @@
+.photo4{
+    position: absolute;
+    width: 372px;
+    height: 778.09px;
+    top: 80px;
+    left: 815px;
+    border-radius: 45px 0px 0px 0px;    
+    z-index: 2;
+    }
+.shadow3{
+    position: absolute;
+    width: 1103px;
+height: 1071.08px;
+top: 26px;
+left: -356px;
+background: radial-gradient(35.19% 35.19% at 50% 50%, rgba(59, 149, 255, 0.17) 0%, rgba(28, 106, 197, 0) 100%) 0;
+}
+.arrow4{
+    position: absolute;
+    width: 252px;
+    height: 249.82px;
+    top: 589.53px;
+    left: 611.68px;
+    transform: rotate(-327.49deg) scaleY(-1) scaleX(1.5);
+    z-index: 4;
+}
+.heading2{
+    position: absolute;
+    width: 550px;
+height: 199px;
+top: 454px;
+left: 295px;
+gap: 48px;
+opacity: 0px;
+}
+.step3{
+    width: 32ch;
+}

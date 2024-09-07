@@ -1,0 +1,26 @@
+.photo2{
+    position: absolute;
+    width: 516px;
+    height: 1065.29px;
+    top: 0px;
+    left: 695px;
+    border-radius: 85px 0px 0px 0px;
+    z-index: 2;
+    }
+    .shadow1{
+        position: absolute;
+        width: 1103px;
+        height: 1071.08px;
+        top: -69px;
+        left: -373px;
+        background: radial-gradient(35.19% 35.19% at 50% 50%, rgba(59, 149, 255, 0.17) 0%, rgba(28, 106, 197, 0) 100%) ;
+    }
+    .arrow2{
+        position: absolute;
+        width: 252px;
+        height: 249.82px;
+        top: 462.53px;
+        left: 641.68px;
+        transform: rotate(-369.49deg) scaleY(-1) scaleX(1.5);
+        z-index: 4;
+    }

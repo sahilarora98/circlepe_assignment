@@ -1,0 +1,35 @@
+.photo5{
+    position: absolute;
+    width: 372px;
+height: 778.09px;
+top: 69px;
+left: 749px;
+border-radius: 41px 0px 0px 0px;
+z-index: 2;
+}
+.shadow4{
+position: absolute;
+width: 1103px;
+height: 1071.08px;
+top: 123px;
+left: -354px;
+background: radial-gradient(35.19% 35.19% at 50% 50%, rgba(59, 149, 255, 0.17) 0%, rgba(28, 106, 197, 0) 100%);
+}
+.step4{
+    font-size: 28px;
+    line-height: 25.76px;
+}
+.step4b{
+    font-size: 28px;
+    line-height: 26px;
+    margin-bottom: 16px; 
+}
+.arrow5{
+    position: absolute;
+    width: 252px;
+    height: 249.82px;
+    top: 608.53px;
+    left: 577.68px;
+    transform: rotate(-318.49deg) scaleY(-1);
+    z-index: 4;
+}
